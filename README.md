@@ -30,3 +30,7 @@ Latex is my favourite way to write mathematics and articles, it is a powerful la
 
 # Some projects
 Below, you can find a few pinned projects I am specifically proud of.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/made-with%20love-pink" />
+</p>
