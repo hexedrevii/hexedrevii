@@ -22,7 +22,7 @@ Lua is a simple, easy to use, dynamically typed embedded language, it might seem
 Java is a powerful, mature, statically typed programming language, it can do almost anything from UI to Backend and ML.
 JavaFX is one of the most popular Java GUI libraries, it can be as simple as a drag and drop ui, and as powerful as a sophisticated XAML interface.
 
-C#/.NET are like Java's big brother, they're more modern with a focus on XPlat and OpenSource in recent years, very useful to know especially on Windows.
+C#/.NET are modern tools, with a focus on XPlat and OpenSource in recent years, very useful to know especially on Windows and in Game Development.
 
 C++ is the backbone of the modern computing world, it is fast, powerful, tiny, and packs a huge punch.
 
